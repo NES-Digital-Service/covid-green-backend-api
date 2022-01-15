@@ -44,7 +44,7 @@
     "http-errors": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
     "node-fetch": "^2.6.1",
-    "node-forge": "^0.10.0",
+    "node-forge": "^1.0.0",
     "node-jose": "^2.0.0",
     "nodemon": "^2.0.7",
     "pg": "^8.5.1",
