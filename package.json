@@ -42,7 +42,7 @@
     "fastify-swagger": "^3.5.0",
     "fluent-schema": "^1.1.0",
     "http-errors": "^1.8.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "node-fetch": "^2.6.1",
     "node-forge": "^0.10.0",
     "node-jose": "^2.0.0",
