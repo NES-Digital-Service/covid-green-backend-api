@@ -46,7 +46,7 @@
     "node-fetch": "^2.6.1",
     "node-forge": "^0.10.0",
     "node-jose": "^2.0.0",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.20",
     "pg": "^8.5.1",
     "pg-range": "^1.1.0",
     "postgrator": "^4.1.1",
